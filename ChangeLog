@@ -1,0 +1,19 @@
+Jan 1, 2000: v0.0.3BETA1-test1-prerelease
+* Fixed connect_scanner::scan_port(...) 
+* Fixed memory hog
+* Added half-connection scan - not detected by Odin's iplog ;) hehehe
+* Added: web, mail, CUPS server scans.
+
+December 22, 2000: v0.0.2BETA
+* Rewrite everything with C++
+* Improved code
+* Major code cleanup
+* Single host scanning
+* More complete Sun RPC
+* Added: web, mail, CUPS server scans.
+
+July 19, 2000: v0.0.1BETA
+* Initial public release
+
+July 16, 2000:
+* Project started
